@@ -45,29 +45,9 @@ diinputkan. Dan Memasukan angka 0 untuk berhenti
 
 # Contoh Outputnya
 
-# ![GitHub Logo](Latihan2.PNG) <h2>
-
-
-# Tampilan Ketika Sudah Di Run Dan Memasukkan Bilangannya
-
-# ![GitHub Logo](Hasil Run Latihan2.PNG) <h2>
-
-
-
-# PROGRAM1.py
-
-Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
-modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan
-laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada
-bulan kelima, pendapatan meningkat 5%, selanjutnya pada bulan ke delapan
-mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.
-
-# Tampilan Output Dan Cara Menghitung Total Keuntungan Selama 8 Bulan
-Berjalannya Usaha
-
 # ![GitHub Logo](Program 1.PNG) <h2>
 
 
-# Tampilan Setelah Di Run Dan Hasil Dari Keuntungan Usaha Selama 8 Bulan
+# Tampilan Ketika Sudah Di Run Dan Memasukkan Bilangannya
 
 # ![GitHub Logo](Hasil Run Program1.PNG) <h2>

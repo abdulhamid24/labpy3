@@ -12,7 +12,7 @@ Xy# labpy03
 
 # Tampilan Ketika Sudah Di Run Dan Memasukkan Jumlah N
 
-# ![GitHub Logo](Hasil Run Latihan1.PNG) <h2>
+# ![GitHub Logo](1.PNG) <h2>
 
 
 # LATIHAN2
@@ -29,7 +29,7 @@ diinputkan. Dan Memasukan angka 0 untuk berhenti
 
 # Tampilan Ketika Sudah Di Run Dan Memasukkan Bilangannya
 
-# ![GitHub Logo](Hasil Run Latihan2.PNG) <h2>
+# ![GitHub Logo](2.PNG) <h2>
 
 
 
@@ -45,9 +45,9 @@ diinputkan. Dan Memasukan angka 0 untuk berhenti
 
 # Contoh Outputnya
 
-# ![GitHub Logo](Program 1.PNG) <h2>
+# ![GitHub Logo](4.PNG) <h2>
 
 
 # Tampilan Ketika Sudah Di Run Dan Memasukkan Bilangannya
 
-# ![GitHub Logo](Hasil Run Program1.PNG) <h2>
+# ![GitHub Logo](3.PNG) <h2>

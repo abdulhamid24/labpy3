@@ -1,4 +1,4 @@
-Xy# labpy03
+# labpy03
 # LATIHAN1
 
     Tampilkan n bilangan acak yang nilainya lebih dari 0.5
